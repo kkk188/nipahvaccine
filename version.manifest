@@ -2,6 +2,7 @@
   "latest_domain": "https://play.odin102.com/",
   "video_bg": "https://customer-1oh5o4x14e0lvwjq.cloudflarestream.com/63b60baf2b53e0e517068489a660fd49/manifest/video.m3u8",
   "logo": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/771a881d-87c5-4298-1aab-034db2794400/public",
+  "app_ios": "https://apps.apple.com/vn/app/odin-swipe-learn/id6764030170",
   "version": "1.0.2",
   "message": "Switch to the new server for faster speed."
 }
